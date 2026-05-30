@@ -81,6 +81,78 @@ class Astronaut:
 
 ---
 
+<!-- ===================== CLOUD COMMAND / TECH UNIVERSE ===================== -->
+## ☁️ Cloud Command &middot; Tech Universe
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🪟 Microsoft**
+
+<img src="https://media.giphy.com/media/3o6MbfHqjQpnrLcfFe/giphy.gif" width="140" alt="Microsoft"/>
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Microsoft Cloud**
+
+<img src="https://media.giphy.com/media/ZDxrPdX4Au7St8r36N/giphy.gif" width="140" alt="Microsoft Cloud"/>
+
+</td>
+<td align="center" width="25%">
+
+**🔵 Google**
+
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="140" alt="Google"/>
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Google Cloud**
+
+<img src="https://media.giphy.com/media/xT0xeFBwY6gCmyz1vq/giphy.gif" width="140" alt="Google Cloud"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🚀 MS Build — Huzzah!**
+
+<img src="https://media.giphy.com/media/KkOCoWiqwTztjUPZRR/giphy.gif" width="140" alt="Microsoft Build"/>
+
+</td>
+<td align="center" width="33%">
+
+**⚡ Accelerate with Copilot**
+
+<img src="https://media.giphy.com/media/KzaN17DprnQn4kIQbM/giphy.gif" width="140" alt="Microsoft Copilot"/>
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Google Cloud Platform**
+
+<img src="https://media.giphy.com/media/WZ7nI3yVHzQohkZZWt/giphy.gif" width="140" alt="Google Cloud Platform"/>
+
+</td>
+</tr>
+</table>
+
+<sub>🛰️ Powered by the world's leading cloud platforms & ecosystems</sub>
+
+</div>
+
+---
+
 <!-- ===================== FLEET / PROJECTS ===================== -->
 ## 🌠 Active Spacecraft &middot; Featured Projects
 
